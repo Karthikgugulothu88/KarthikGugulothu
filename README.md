@@ -1,5 +1,5 @@
 # KarthikGugulothu
-Hi,  a Cloud & DevOps Engineer with expertise in **AWS, Azure, Terraform, and Infrastructure Automation**.  
+Hi,i'm Karthik  a Cloud & DevOps Engineer with expertise in **AWS, Azure, Terraform, and Infrastructure Automation**.  
 
 🔹 **Skills:** AWS | Azure | Terraform | Jenkins | Kubernetes | CI/CD | Cloud Security  
 📜 **Certifications:** AWS Solutions Architect Associate | Microsoft Azure (AZ-900, AZ-104)  
